@@ -24,7 +24,7 @@ If your input is incorrect, zero flag is equal one.
 For bypass this, your task is just change the zero flag for zero.
 
 This idea of zero flag in c:
-```code
+```c
 ...
 int cmp() {
   if (1 == 1) {
